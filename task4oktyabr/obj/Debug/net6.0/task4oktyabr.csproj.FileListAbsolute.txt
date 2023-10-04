@@ -1,0 +1,14 @@
+D:\task4oktyabr\task4oktyabr\bin\Debug\net6.0\task4oktyabr.exe
+D:\task4oktyabr\task4oktyabr\bin\Debug\net6.0\task4oktyabr.deps.json
+D:\task4oktyabr\task4oktyabr\bin\Debug\net6.0\task4oktyabr.runtimeconfig.json
+D:\task4oktyabr\task4oktyabr\bin\Debug\net6.0\task4oktyabr.dll
+D:\task4oktyabr\task4oktyabr\bin\Debug\net6.0\task4oktyabr.pdb
+D:\task4oktyabr\task4oktyabr\obj\Debug\net6.0\task4oktyabr.GeneratedMSBuildEditorConfig.editorconfig
+D:\task4oktyabr\task4oktyabr\obj\Debug\net6.0\task4oktyabr.AssemblyInfoInputs.cache
+D:\task4oktyabr\task4oktyabr\obj\Debug\net6.0\task4oktyabr.AssemblyInfo.cs
+D:\task4oktyabr\task4oktyabr\obj\Debug\net6.0\task4oktyabr.csproj.CoreCompileInputs.cache
+D:\task4oktyabr\task4oktyabr\obj\Debug\net6.0\task4oktyabr.dll
+D:\task4oktyabr\task4oktyabr\obj\Debug\net6.0\refint\task4oktyabr.dll
+D:\task4oktyabr\task4oktyabr\obj\Debug\net6.0\task4oktyabr.pdb
+D:\task4oktyabr\task4oktyabr\obj\Debug\net6.0\task4oktyabr.genruntimeconfig.cache
+D:\task4oktyabr\task4oktyabr\obj\Debug\net6.0\ref\task4oktyabr.dll
